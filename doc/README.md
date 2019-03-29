@@ -1,3 +1,1 @@
-## the doc for the repository
-
-[gitbook address](https://aoncloud.gitbook.io/doc/)
+## GitBook belong of Aoncloud
